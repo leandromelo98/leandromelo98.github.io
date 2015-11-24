@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I like to build things
 
-### More Information
+### About
 
-A place to include any other types of information that you'd like to include about yourself.
+I am from Brazil and I live in Korea for almost 4 years.
 
-### Contact me
+### About
 
-[email@domain.com](mailto:email@domain.com)
+[leandromelo@seoulchristian.org](leandromelo@seoulchristian.org)
